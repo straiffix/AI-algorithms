@@ -4,4 +4,4 @@ Algorithms implemented during AI course.
 - BFS_and_DFS.py - Implementation of BFS and DFS algorithms. 
 - Genetic_algorithm_for_TSP.py - Implementation of basic Genetic algorithm with crossover and elitism, solving Travelling Salesman problem.
 - GreedyBestSearch_and_Astar.py - Implementation of Greedy Best Search and A* algorithms.
-- Sudoku_solvetion.py - Implementation of Backtracking algorithm, which is used for sudoku completion. 
+- Sudoku_solution.py - Implementation of Backtracking algorithm, which is used for sudoku completion. 
